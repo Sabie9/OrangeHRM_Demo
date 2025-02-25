@@ -1,0 +1,120 @@
+02/26/2025 02:31:09 AM: INFO: ***Start of test_homePageTitle***
+02/26/2025 02:31:09 AM: INFO: ***Start of test_admin_login***
+02/26/2025 02:31:12 AM: INFO: *** PASS: test_homePageTitle ***
+02/26/2025 02:31:16 AM: INFO: ***Logged in Successfully as expected***
+02/26/2025 02:31:17 AM: INFO: ***Logged out Successfully***
+02/26/2025 02:33:22 AM: INFO: ***Start of test_admin_login***
+02/26/2025 02:33:25 AM: INFO: Trying login with Username: Admin, Password: admin123
+02/26/2025 02:33:27 AM: INFO: ***Logged in Successfully as expected***
+02/26/2025 02:33:28 AM: INFO: ***Logged out Successfully***
+02/26/2025 02:33:29 AM: INFO: Trying login with Username: Admin, Password: admin124
+02/26/2025 02:33:35 AM: INFO: ***Login Failed as expected***
+02/26/2025 02:33:36 AM: INFO: Trying login with Username: Adm, Password: admin123
+02/26/2025 02:33:42 AM: INFO: ***Login Failed as expected***
+02/26/2025 02:33:43 AM: INFO: Trying login with Username: Adm, Password: admin126
+02/26/2025 02:33:49 AM: INFO: ***Login Failed as expected***
+02/26/2025 02:33:49 AM: INFO: ***PASS: test_admin_login***
+02/26/2025 02:37:53 AM: INFO: ***Start of test_admin_login***
+02/26/2025 02:37:53 AM: INFO: ***Start of test_homePageTitle***
+02/26/2025 02:37:56 AM: INFO: *** PASS: test_homePageTitle ***
+02/26/2025 02:37:59 AM: INFO: ***Logged in Successfully as expected***
+02/26/2025 02:38:00 AM: INFO: ***Logged out Successfully***
+02/26/2025 02:38:00 AM: INFO: *** PASS: test_admin_login ***
+02/26/2025 02:42:40 AM: INFO: *** Start of test_homePageTitle ***
+02/26/2025 02:42:40 AM: INFO: *** Start of test_admin_login ***
+02/26/2025 02:42:44 AM: INFO: *** PASS: test_homePageTitle ***
+02/26/2025 02:42:46 AM: INFO: *** Logged in Successfully as expected ***
+02/26/2025 02:42:49 AM: INFO: *** Logged out Successfully ***
+02/26/2025 02:42:49 AM: INFO: *** PASS: test_admin_login ***
+02/26/2025 02:46:00 AM: INFO: *** Start of test_homePageTitle ***
+02/26/2025 02:46:00 AM: INFO: *** Start of test_admin_login ***
+02/26/2025 02:46:03 AM: INFO: *** PASS: test_homePageTitle ***
+02/26/2025 02:46:05 AM: INFO: *** Logged in Successfully as expected ***
+02/26/2025 02:46:07 AM: INFO: *** Logged out Successfully ***
+02/26/2025 02:46:07 AM: INFO: *** PASS: test_admin_login ***
+02/26/2025 02:48:11 AM: INFO: ***Start of test_admin_login***
+02/26/2025 02:48:15 AM: INFO: Trying login with Username: Admin, Password: admin123
+02/26/2025 02:48:16 AM: INFO: ***Logged in Successfully as expected***
+02/26/2025 02:48:18 AM: INFO: ***Logged out Successfully***
+02/26/2025 02:48:19 AM: INFO: Trying login with Username: Admin, Password: admin124
+02/26/2025 02:48:25 AM: INFO: ***Login Failed as expected***
+02/26/2025 02:48:27 AM: INFO: Trying login with Username: Adm, Password: admin123
+02/26/2025 02:48:32 AM: INFO: ***Login Failed as expected***
+02/26/2025 02:48:33 AM: INFO: Trying login with Username: Adm, Password: admin126
+02/26/2025 02:48:39 AM: INFO: ***Login Failed as expected***
+02/26/2025 02:48:39 AM: INFO: ***PASS: test_admin_login***
+02/26/2025 03:23:13 AM: INFO: *** Start of test_homePageTitle ***
+02/26/2025 03:23:13 AM: INFO: *** Start of test_admin_login ***
+02/26/2025 03:23:16 AM: INFO: *** PASS: test_homePageTitle ***
+02/26/2025 03:23:19 AM: INFO: *** Logged in Successfully as expected ***
+02/26/2025 03:23:20 AM: INFO: *** Logged out Successfully ***
+02/26/2025 03:23:20 AM: INFO: *** PASS: test_admin_login ***
+02/26/2025 03:24:03 AM: INFO: ***Start of test_admin_login***
+02/26/2025 03:24:06 AM: INFO: Trying login with Username: Admin, Password: admin123
+02/26/2025 03:24:08 AM: INFO: ***Logged in Successfully as expected***
+02/26/2025 03:24:11 AM: INFO: ***Logged out Successfully***
+02/26/2025 03:24:12 AM: INFO: Trying login with Username: Admin, Password: admin124
+02/26/2025 03:24:18 AM: INFO: ***Login Failed as expected***
+02/26/2025 03:24:19 AM: INFO: Trying login with Username: Adm, Password: admin123
+02/26/2025 03:24:25 AM: INFO: ***Login Failed as expected***
+02/26/2025 03:24:26 AM: INFO: Trying login with Username: Adm, Password: admin126
+02/26/2025 03:24:31 AM: INFO: ***Login Failed as expected***
+02/26/2025 03:24:31 AM: INFO: ***PASS: test_admin_login***
+02/26/2025 04:17:01 AM: INFO: *** Start of test_admin_login ***
+02/26/2025 04:17:07 AM: INFO: *** Logged in Successfully as expected ***
+02/26/2025 04:17:08 AM: INFO: *** Logged out Successfully ***
+02/26/2025 04:17:08 AM: INFO: *** PASS: test_admin_login ***
+02/26/2025 04:18:10 AM: INFO: *** Start of test_homePageTitle ***
+02/26/2025 04:18:14 AM: INFO: *** PASS: test_homePageTitle ***
+02/26/2025 04:18:18 AM: INFO: *** Start of test_admin_login ***
+02/26/2025 04:18:24 AM: INFO: *** Logged in Successfully as expected ***
+02/26/2025 04:18:26 AM: INFO: *** Logged out Successfully ***
+02/26/2025 04:18:26 AM: INFO: *** PASS: test_admin_login ***
+02/26/2025 04:18:30 AM: INFO: ***Start of test_admin_login***
+02/26/2025 04:18:34 AM: INFO: Trying login with Username: Admin, Password: admin123
+02/26/2025 04:18:36 AM: INFO: ***Logged in Successfully as expected***
+02/26/2025 04:18:38 AM: INFO: ***Logged out Successfully***
+02/26/2025 04:18:39 AM: INFO: Trying login with Username: Admin, Password: admin124
+02/26/2025 04:18:45 AM: INFO: ***Login Failed as expected***
+02/26/2025 04:18:47 AM: INFO: Trying login with Username: Adm, Password: admin123
+02/26/2025 04:18:53 AM: INFO: ***Login Failed as expected***
+02/26/2025 04:18:54 AM: INFO: Trying login with Username: Adm, Password: admin126
+02/26/2025 04:19:00 AM: INFO: ***Login Failed as expected***
+02/26/2025 04:19:00 AM: INFO: ***PASS: test_admin_login***
+02/26/2025 04:23:43 AM: INFO: ***Start of test_admin_login***
+02/26/2025 04:23:47 AM: INFO: Trying login with Username: Admin, Password: admin123
+02/26/2025 04:23:49 AM: INFO: ***Logged in Successfully as expected***
+02/26/2025 04:23:51 AM: INFO: ***Logged out Successfully***
+02/26/2025 04:23:52 AM: INFO: Trying login with Username: Admin, Password: admin124
+02/26/2025 04:23:58 AM: INFO: ***Login Failed as expected***
+02/26/2025 04:23:59 AM: INFO: Trying login with Username: Adm, Password: admin123
+02/26/2025 04:24:05 AM: INFO: ***Login Failed as expected***
+02/26/2025 04:24:06 AM: INFO: Trying login with Username: Adm, Password: admin126
+02/26/2025 04:24:12 AM: INFO: ***Login Failed as expected***
+02/26/2025 04:24:12 AM: INFO: ***PASS: test_admin_login***
+02/26/2025 04:24:46 AM: INFO: *** Start of test_admin_login ***
+02/26/2025 04:24:51 AM: INFO: *** Logged in Successfully as expected ***
+02/26/2025 04:24:53 AM: INFO: *** Logged out Successfully ***
+02/26/2025 04:24:53 AM: INFO: *** PASS: test_admin_login ***
+02/26/2025 04:24:57 AM: INFO: ***Start of test_admin_login***
+02/26/2025 04:25:01 AM: INFO: Trying login with Username: Admin, Password: admin123
+02/26/2025 04:25:02 AM: INFO: ***Logged in Successfully as expected***
+02/26/2025 04:25:04 AM: INFO: ***Logged out Successfully***
+02/26/2025 04:25:05 AM: INFO: Trying login with Username: Admin, Password: admin124
+02/26/2025 04:25:11 AM: INFO: ***Login Failed as expected***
+02/26/2025 04:25:13 AM: INFO: Trying login with Username: Adm, Password: admin123
+02/26/2025 04:25:19 AM: INFO: ***Login Failed as expected***
+02/26/2025 04:25:21 AM: INFO: Trying login with Username: Adm, Password: admin126
+02/26/2025 04:25:27 AM: INFO: ***Login Failed as expected***
+02/26/2025 04:25:27 AM: INFO: ***PASS: test_admin_login***
+02/26/2025 04:45:08 AM: INFO: *** Start of test_admin_login ***
+02/26/2025 04:45:20 AM: INFO: *** Logged in Successfully as expected ***
+02/26/2025 04:45:22 AM: INFO: *** Logged out Successfully ***
+02/26/2025 04:45:22 AM: INFO: *** PASS: test_admin_login ***
+02/26/2025 04:47:33 AM: INFO: *** Start of test_admin_login ***
+02/26/2025 04:47:41 AM: INFO: *** Logged in Successfully as expected ***
+02/26/2025 04:47:42 AM: INFO: *** Logged out Successfully ***
+02/26/2025 04:47:42 AM: INFO: *** PASS: test_admin_login ***
+02/26/2025 04:55:06 AM: INFO: *** Start of test_admin_login ***
+02/26/2025 04:56:07 AM: INFO: *** Start of test_admin_login ***
+02/26/2025 04:57:11 AM: INFO: *** Start of test_admin_login ***
